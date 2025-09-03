@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+
+# Data files (optional - keep raw data out of repo if large/private)
+data/
+*.csv
+*.tsv
+*.json
+*.zip
+
+
+# IDE / Editor settings
+.vscode/
