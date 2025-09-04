@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: twitter_sentiment
+Version: 1.0.0
+Summary: Twitter Sentiment Analysis ML Project
+Author: Alex Antony
+License: MIT
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: scikit-learn
+Requires-Dist: seaborn
+Dynamic: license-file
+
+# twitter_sentiment_analysis
+A machine learning project to analyze and classify tweets sentiment (neutral, positive, negative) using NLP techniques.

@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+src/twitter_sentiment/__init__.py
+src/twitter_sentiment/config.py
+src/twitter_sentiment/utils.py
+src/twitter_sentiment.egg-info/PKG-INFO
+src/twitter_sentiment.egg-info/SOURCES.txt
+src/twitter_sentiment.egg-info/dependency_links.txt
+src/twitter_sentiment.egg-info/requires.txt
+src/twitter_sentiment.egg-info/top_level.txt

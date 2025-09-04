@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "twitter_sentiment"
+version = "1.0.0"
+description = "Twitter Sentiment Analysis ML Project"
+readme = "README.md"
+authors = [{ name="Alex Antony" }]
+requires-python = ">=3.9"
+license = {text="MIT"}
+dependencies = ["pandas", "numpy", "scikit-learn", "seaborn"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
